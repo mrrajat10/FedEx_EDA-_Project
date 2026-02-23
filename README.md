@@ -1,4 +1,4 @@
-# FedEx_EDA-_Project
+# FedEx_EDA_Project
 Project Summary
 
 This project presents a comprehensive Exploratory Data Analysis (EDA) of FedEx’s global logistics dataset to evaluate delivery performance, freight cost behavior, shipment modes, fulfillment methods, and contractual trade structures (INCO terms). The objective was to transform raw operational data into actionable business insights for logistics optimization.
