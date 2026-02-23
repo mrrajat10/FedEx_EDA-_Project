@@ -17,6 +17,12 @@ Matplotlib – Custom visualizations, styling, annotations, and layout control
 
 Seaborn – Statistical visualizations (boxplots, violin plots, countplots, multivariate scatterplots)
 
+Plotly Express – Interactive visualizations and enhanced exploratory charts
+
+Plotly.io – Rendering and export configuration
+
+Kaleido – Static image export of Plotly figures
+
 Jupyter Notebook – Interactive analysis and visualization environment
 
 Key Business Recommendations
